@@ -11,6 +11,28 @@ I am a Full Stack Engineer && student studying Software Engineering at the Unive
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Machine Learning projects && Full Stack Projects
 - 🤔 I’m looking for help with Machine Learning && Full Stack Development
-- 📫 How to reach me: https://www.linkedin.com/in/faatimah-iz-zaahra-m-0670881a1/
 - ⚡ Fun fact: I do karate and I like anime && Gaming.
 
+Languages:
+- HTML5
+- CSS
+- JavaScript
+- Python
+
+Frameworks
+- ReactJS
+
+Design
+- Figma
+
+Version Control
+- Git
+- Gitlab
+- Github
+
+IDEs
+- Visual Studio Code
+- IntelliJ Idea
+
+Socials
+https://www.linkedin.com/in/faatimah-iz-zaahra-m-0670881a1/
