@@ -32,7 +32,6 @@ Version Control
 
 IDEs
 - Visual Studio Code
-- IntelliJ Idea
 
 Socials
 https://www.linkedin.com/in/faatimah-iz-zaahra-m-0670881a1/
