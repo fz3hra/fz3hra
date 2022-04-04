@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 I am a Full Stack Engineer && student studying Software Engineering at the University of Mauritius.
 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning && Flutter
 - 👯 I’m looking to collaborate on Machine Learning projects && Full Stack Projects
 - 🤔 I’m looking for help with Machine Learning && Full Stack Development
 - ⚡ Fun fact: I do karate and I like anime && Gaming.
