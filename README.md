@@ -18,9 +18,15 @@ Languages:
 - CSS
 - JavaScript
 - Python
+- Dart
 
 Frameworks
 - ReactJS
+- Flutter
+
+Backend
+- NodeJS
+- GraphQL
 
 Design
 - Figma
