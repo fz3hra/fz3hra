@@ -25,7 +25,6 @@ Frameworks
 - Flutter
 
 Backend
-- NodeJS
 - GraphQL
 
 Design
