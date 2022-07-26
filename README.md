@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-I am a Full Stack Engineer && student studying Software Engineering at the University of Mauritius.
+I am a Software Engineer && student studying Software Engineering at the University of Mauritius.
 
 - 🌱 I’m currently learning Machine Learning && Flutter
 - 👯 I’m looking to collaborate on Machine Learning projects && Full Stack Projects
