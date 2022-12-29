@@ -20,7 +20,7 @@
 
 I am a Software Engineer && student studying Software Engineering at the University of Mauritius.
 
-- 🌱 I’m currently learning Machine Learning && Flutter
+- 🌱 I’m currently learning Machine Learning && Flutter && DotNet
 - 👯 I’m looking to collaborate on Machine Learning projects && Flutter Projects
 - 🤔 I’m looking for help with Machine Learning && Flutter Development
 - ⚡ Fun fact: I do karate and I like anime && Gaming.
