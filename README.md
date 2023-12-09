@@ -18,7 +18,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Software Engineer && student studying Software Engineering at the University of Mauritius.
+I am a Software Engineer based in Mauritius.
 
 - 🌱 I’m currently learning Machine Learning && Flutter && DotNet
 - 👯 I’m looking to collaborate on Machine Learning projects && Flutter Projects
