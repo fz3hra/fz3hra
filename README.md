@@ -25,7 +25,7 @@ I am a Software Engineer based in Mauritius.
 - 🤔 I’m looking for help with Machine Learning && Flutter Development
 - ⚡ Fun fact: I do karate and I like anime && Gaming.
 
-## :hammer_and_wrench: Languages and Tools :
+## Languages and Tools :
 
 ### Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,7 +54,7 @@ I am a Software Engineer based in Mauritius.
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### :fire: My Stats :
+### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fz3hra&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fz3hra&layout=compact&theme=vision-friendly-dark)](https://github.com/fz3hra/github-readme-stats)
