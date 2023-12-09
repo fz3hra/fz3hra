@@ -16,7 +16,7 @@
   </div>
 </div> 
 
-### :woman_technologist: About Me :
+### About Me :
 
 I am a Software Engineer based in Mauritius.
 
