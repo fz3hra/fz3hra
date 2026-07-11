@@ -18,7 +18,7 @@
 
 ### About Me :
 
-I am a Software Engineer based in Mauritius.
+I am a Senior Software Engineer based in Mauritius.
 
 - 📜 Microsoft Certified: Azure Fundamentals [https://learn.microsoft.com/en-us/users/zaahramujore-7217/credentials/4a6ab59da4c0aaf7]
 - 📜 BSc Hons Software Engineering
