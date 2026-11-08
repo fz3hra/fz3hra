@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/faatimah-iz-zaahra-m-0670881a1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/JauhZaahra">
+  <a href="https://x.com/_fz3hra">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <h1>
